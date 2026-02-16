@@ -1,6 +1,6 @@
 {
   "name": "@ktmcp-cli/codat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Production-ready CLI for Codat Accounting API - unified accounting data from 20+ platforms",
   "type": "module",
   "main": "./src/index.js",
