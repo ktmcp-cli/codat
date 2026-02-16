@@ -1,0 +1,37 @@
+{
+  "name": "@ktmcp-cli/codat",
+  "version": "1.0.0",
+  "description": "Production-ready CLI for Codat Accounting API - unified accounting data from 20+ platforms",
+  "type": "module",
+  "main": "./src/index.js",
+  "bin": {
+    "codat": "./bin/codat.js"
+  },
+  "scripts": {
+    "start": "node bin/codat.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codat",
+    "accounting",
+    "api",
+    "cli",
+    "quickbooks",
+    "xero",
+    "sage",
+    "financial-data"
+  ],
+  "author": "KTMCP",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "axios": "^1.6.0",
+    "chalk": "^5.3.0",
+    "ora": "^8.0.0",
+    "conf": "^12.0.0",
+    "table": "^6.8.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
