@@ -1,5 +1,10 @@
 # Codat Accounting API CLI
 
+<p align="center">
+  <img src="banner.png" alt="KTMCP Banner" width="100%">
+</p>
+
+
 A production-ready command-line interface for the [Codat Accounting API](https://www.codat.io/accounting-api/), providing unified access to accounting data from 20+ platforms including QuickBooks, Xero, Sage, FreeAgent, and more.
 
 ## Features
