@@ -1,5 +1,7 @@
 ![Banner](banner.svg)
 
+# Codat CLI
+
 A production-ready command-line interface for the [Codat Accounting API](https://www.codat.io/accounting-api/), providing unified access to accounting data from 20+ platforms including QuickBooks, Xero, Sage, FreeAgent, and more.
 
 > **⚠️ Unofficial CLI** - This tool is not officially sponsored, endorsed, or maintained by Codat. It is an independent project built on the public Codat API. Official site: https://www.codat.io | API docs: https://docs.codat.io/
