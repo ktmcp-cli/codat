@@ -15,7 +15,11 @@
   <rect x="60" y="190" width="600" height="60" rx="8" fill="#1e1e1e"/>
   <text x="90" y="230" font-family="monospace" font-size="20" fill="#00ff7f">npm install -g @ktmcp-cli/codat</text>
 
-  <rect x="1000" y="110" width="140" height="80" rx="12" fill="#00ff7f"/>
-  <text x="1070" y="145" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#000" text-anchor="middle">KILL THE</text>
-  <text x="1070" y="170" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="900" fill="#000" text-anchor="middle">MCP</text>
+  <!-- Terminal window badge -->
+  <rect x="980" y="100" width="180" height="100" rx="4" fill="#0a0e0f" stroke="#00ff7f" stroke-width="2"/>
+  <circle cx="995" cy="115" r="3" fill="#ff5f56"/>
+  <circle cx="1010" cy="115" r="3" fill="#ffbd2e"/>
+  <circle cx="1025" cy="115" r="3" fill="#27c93f"/>
+  <text x="1070" y="150" font-family="monospace" font-size="14" fill="#8b9d9f" text-anchor="middle">$ kill -9</text>
+  <text x="1070" y="180" font-family="monospace" font-size="24" font-weight="900" fill="#00ff7f" text-anchor="middle">MCP</text>
 </svg>
