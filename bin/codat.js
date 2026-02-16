@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 
+const { showWelcomeMessage } = require('../src/lib/welcome');
+showWelcomeMessage('codat');
+
 /**
  * Codat Accounting API CLI
  * Main entry point for the command-line interface
