@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # Codat Accounting API CLI
 
 <p align="center">
