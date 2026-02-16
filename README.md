@@ -1,4 +1,4 @@
-![Banner](banner.svg)
+![Banner](https://raw.githubusercontent.com/ktmcp-cli/codat/main/banner.svg)
 
 # Codat CLI
 
