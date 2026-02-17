@@ -1,5 +1,11 @@
 ![Banner](https://raw.githubusercontent.com/ktmcp-cli/codat/main/banner.svg)
 
+
+> "Six months ago, everyone was talking about MCPs. And I was like, screw MCPs. Every MCP would be better as a CLI."
+>
+> — [Peter Steinberger](https://twitter.com/steipete), Founder of OpenClaw
+> [Watch on YouTube (~2:39:00)](https://www.youtube.com/@lexfridman) | [Lex Fridman Podcast #491](https://lexfridman.com/peter-steinberger/)
+
 # Codat CLI
 
 A production-ready command-line interface for the [Codat Accounting API](https://www.codat.io/accounting-api/), providing unified access to accounting data from 20+ platforms including QuickBooks, Xero, Sage, FreeAgent, and more.
