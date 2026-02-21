@@ -594,3 +594,21 @@ Contributions are welcome! Please:
 ---
 
 **Note**: This CLI is a third-party tool and is not officially maintained by Codat. For official SDKs, see [Codat's GitHub](https://github.com/codatio).
+
+
+---
+
+## Support KTMCP
+
+If you find this CLI useful, we'd greatly appreciate your support! Share your experience on:
+- Reddit
+- Twitter/X
+- Hacker News
+
+**Incentive:** Users who can demonstrate that their support/advocacy helped advance KTMCP will have their feature requests and issues prioritized.
+
+Just be mindful - these are real accounts and real communities. Authentic mentions and genuine recommendations go a long way!
+
+## Support This Project
+
+If you find this CLI useful, we'd appreciate support across Reddit, Twitter, Hacker News, or Moltbook. Please be mindful - these are real community accounts. Contributors who can demonstrate their support helped advance KTMCP will have their PRs and feature requests prioritized.
